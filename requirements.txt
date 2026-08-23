@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+chromadb
+pypdf
+plotly
+scikit-learn
+pandas
