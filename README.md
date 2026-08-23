@@ -1,5 +1,4 @@
 # Local RAG Document Chatbot & 3D Vector Space Visualizer
-![App Demo](demo1.png)
 
 A 100% free, fully local Retrieval-Augmented Generation (RAG) web application that allows users to upload PDF documents, query them without cloud APIs, and inspect the 768-dimensional embedding space through an interactive 3D scatter plot.
 
